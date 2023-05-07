@@ -1,0 +1,62 @@
+body {
+  background-image: url('steptodown_com949354.jpg');
+  background-color: #cccccc;
+
+}
+
+header {
+  background-color: #03adf6;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 1rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+form input {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  width: 75%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  align-items: baseline;
+}
+
+.center {
+  text-align: center;
+}
+
+#results {
+  /* Styles for the search results container */
+}
